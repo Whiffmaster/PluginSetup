@@ -1,6 +1,5 @@
 package com.whiff.plug
 
-
 import org.bukkit.Material
 import org.bukkit.event.EventHandler
 import org.bukkit.event.Listener
@@ -12,6 +11,6 @@ import java.util.*
 
 
 object Listener :  Listener {
-    
-    
+
+
 }
