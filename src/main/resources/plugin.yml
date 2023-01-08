@@ -1,0 +1,11 @@
+name: KotPlug
+version: '${project.version}'
+main: com.whiff.plug.KotPlug
+api-version: 1.19
+authors: [ Whiffmaster ]
+website: cobratate.com
+commands:
+    supaStructure:
+        description: AWSOME
+        usage: /supaStructure
+        permission-message: You do not have permission to use this command!
