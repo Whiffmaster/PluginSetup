@@ -1,7 +1,6 @@
-name: KotPlug
+name: KotlinPlugin
 version: '${project.version}'
-main: com.whiff.plug.KotPlug
+main: com.whiff.plug.KotlinPlugin
 api-version: 1.19
 authors: [ Whiffmaster ]
 website: cobratate.com
-commands:
